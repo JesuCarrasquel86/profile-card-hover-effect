@@ -67,7 +67,7 @@ body
    align-items: flex-end;
    padding-bottom: 30px;
    transform: translateY(100%);
-   transition: 0.5s;
+   transition: all 0.5s;
 }
 .contenedor .cards:hover .content 
 {
@@ -116,7 +116,7 @@ color: #03a9f4;
    font-size: 1.5em;
    color: #ffff;
    text-decoration: none;
-   transition: 0.5;
+   transition: all 0.5s;
 }
 .social-icons li a:hover
 {
